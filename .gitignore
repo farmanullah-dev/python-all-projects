@@ -41,3 +41,32 @@ Thumbs.db
 *.txt
 !requirements.txt
 !README.md
+
+# Brain Tumor related
+Brain_tumor/
+Brain_tumor.py
+Brain_tumor.zip
+tumor.py
+brain_tumor.weights.h5
+brain_tumor_model.h5
+brain_tumor_model.tflite
+tb_classification_model.keras
+
+# Large files and Environments
+myenv/
+numpy/
+pandas/
+*.mp4
+*.h5
+*.keras
+*.tflite
+*.zip
+*.npy
+*.pt
+*.jpg
+*.csv
+!test.csv
+!alpr_results.csv
+archive/
+archive2/
+runs/
